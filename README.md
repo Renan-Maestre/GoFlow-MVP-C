@@ -1,6 +1,7 @@
-http://googleusercontent.com/image_collection/image_retrieval/12035245181078320829_0
-
 # 🚀 GoFlow - Sistema de Gestão de Filas
+
+![Banner GoFlow](https://raw.githubusercontent.com/renanmaestre/assets/main/hospital-queue-banner.png)
+
 
 O **GoFlow** é uma solução inteligente para gerenciamento de atendimento em centros de saúde, desenvolvida como parte do Projeto Integrador da **Rede de Ensino Doctum**. O sistema automatiza a emissão de senhas, organiza a fila por prioridade legal e permite a consulta em tempo real do status de atendimento.
 
