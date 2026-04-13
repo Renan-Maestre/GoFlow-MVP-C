@@ -1,0 +1,21 @@
+# Compilados e Executáveis
+*.o
+*.exe
+*.out
+*.app
+
+# Arquivos de Projeto do Dev-C++
+*.layout
+*.win
+
+# Pastas de Build e Temporários
+bin/
+obj/
+Debug/
+Release/
+
+# Arquivos de sistema/Editor
+.vscode/
+.history/
+Thumbs.db
+.DS_Store
