@@ -39,8 +39,7 @@ Para compilar o projeto no Dev-C++:
 ## 👥 Equipe de Desenvolvimento
 
 Este projeto é fruto da colaboração do grupo:
-* **Renan Maestre** (Desenvolvedor Full Stack)
-* Rafael, Chrystian, João Vitor Ferreira, Sibelly, Thallyson, João Victor Pierrout, Thales Rezende Assis, Thales de Castro e Weslley.
+* **Renan Maestre,Rafael, Chrystian, João Vitor Ferreira, Sibelly, Thallyson, João Victor Pierrout, Thales Rezende Assis, Thales de Castro e Weslley**.
 
 ---
 *Este projeto segue os princípios de SOLID e Clean Architecture para garantir escalabilidade e robustez.*
